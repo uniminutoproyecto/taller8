@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="profiler.attach.dynamic.pid">9084</entry>
+<entry key="profiler.attach.remote">false</entry>
+<entry key="profiler.attach.server.type">Java application</entry>
+<entry key="profiler.attach.dynamic.jdk16">true</entry>
+<entry key="profiler.attach.direct">false</entry>
+<entry key="profiler.attach.target.type">Java application</entry>
+<entry key="profiler.attach.dynamic.processName">c:\Users\smyll\.vscode\extensions\redhat.java-1.15.0-win32-x64\server\plugins\org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar</entry>
+<entry key="profiler.attach.host"/>
+</properties>
